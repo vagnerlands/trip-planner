@@ -23,7 +23,12 @@
             "address": "Center Parcs De Eemhof, Slingerweg 1, 3896 LD Zeewolde"
           },
           "durationMinutes": 240,
-          "tags": ["arrival", "lodging", "family", "indoor-option"]
+          "tags": [
+            "arrival",
+            "lodging",
+            "family",
+            "indoor-option"
+          ]
         },
         {
           "id": "nl-2026-dolfinarium",
@@ -45,7 +50,13 @@
             "type": "expected",
             "isEstimate": true
           },
-          "tags": ["animals", "family", "theme-park", "indoor-option", "book-ahead"]
+          "tags": [
+            "animals",
+            "family",
+            "theme-park",
+            "indoor-option",
+            "book-ahead"
+          ]
         },
         {
           "id": "nl-2026-giethoorn-boat",
@@ -61,7 +72,13 @@
             "address": "Giethoorn village centre, 8355 Giethoorn"
           },
           "durationMinutes": 300,
-          "tags": ["boat", "outdoors", "village", "picnic", "book-ahead"]
+          "tags": [
+            "boat",
+            "outdoors",
+            "village",
+            "picnic",
+            "book-ahead"
+          ]
         },
         {
           "id": "nl-2026-eemhof-park-day",
@@ -69,7 +86,7 @@
           "suggestedTime": "10:00",
           "title": "De Eemhof park day",
           "description": "Enjoy a slower day with biking, Aqua Mundo water slides, playgrounds and family downtime.",
-          "pictureUrl": "",
+          "pictureUrl": "https://cairnszoom.com.au/wp-content/uploads/2015/07/Cairns-ZOOM-and-Wildlife-Dome_HiZOOM_HERO_midres.jpg",
           "observations": "Keep this as a recovery day. Check activity reservation requirements in the Center Parcs app and divide the day into shorter blocks for different ages.",
           "location": {
             "latitude": 52.2603,
@@ -77,7 +94,13 @@
             "address": "Center Parcs De Eemhof, Slingerweg 1, 3896 LD Zeewolde"
           },
           "durationMinutes": 420,
-          "tags": ["resort", "swimming", "cycling", "family", "flexible"]
+          "tags": [
+            "resort",
+            "swimming",
+            "cycling",
+            "family",
+            "flexible"
+          ]
         },
         {
           "id": "nl-2026-alkmaar-cheese-market",
@@ -85,7 +108,7 @@
           "suggestedTime": "10:00",
           "title": "Alkmaar Cheese Market",
           "description": "Watch the traditional cheese carriers, weighing demonstrations and market activity at Waagplein.",
-          "pictureUrl": "",
+          "pictureUrl": "https://media.istockphoto.com/id/512972736/nl/foto/he-famous-alkmaar-cheese-market-in-netherlands.jpg?s=612x612&w=0&k=20&c=vTnMC21RuaTG97NQOd3DLg4c0GcV90lPayXD0Il_V0U=",
           "observations": "Fixed event: Friday 28 August 2026, 10:00–13:00. Arrive before 10:00 to find parking and a viewing place. Do this before Zaanse Schans.",
           "location": {
             "latitude": 52.631,
@@ -93,7 +116,13 @@
             "address": "Waagplein, 1811 JP Alkmaar"
           },
           "durationMinutes": 180,
-          "tags": ["special-event", "cheese", "culture", "family", "fixed-time"]
+          "tags": [
+            "special-event",
+            "cheese",
+            "culture",
+            "family",
+            "fixed-time"
+          ]
         },
         {
           "id": "nl-2026-zaanse-schans",
@@ -101,7 +130,7 @@
           "suggestedTime": "14:15",
           "title": "Zaanse Schans windmills and crafts",
           "description": "Walk past the windmills and green wooden houses, visit family-friendly craft demonstrations and sample local cheese.",
-          "pictureUrl": "",
+          "pictureUrl": "https://www.niederlandenet.de/wp-content/uploads/2024/03/Panoramaaufnahmen-der-Zaanse-Schans-Natur.jpg",
           "observations": "Most locations generally operate from 09:00–17:00, but individual venues vary. Navigation address for the car park is Schansend 7. Passenger-car parking is currently listed at €15 for the day.",
           "location": {
             "latitude": 52.473,
@@ -113,10 +142,15 @@
             "amount": 15,
             "currency": "EUR",
             "type": "expected",
-            "isEstimate": true,
-            "scope": "vehicle parking only"
+            "isEstimate": true
           },
-          "tags": ["windmills", "culture", "cheese", "family", "outdoors"]
+          "tags": [
+            "windmills",
+            "culture",
+            "cheese",
+            "family",
+            "outdoors"
+          ]
         },
         {
           "id": "nl-2026-efteling",
@@ -124,8 +158,8 @@
           "suggestedTime": "09:00",
           "title": "Full day at Efteling",
           "description": "Explore fairy-tale attractions, family rides and selected coasters, balancing options for all three children.",
-          "pictureUrl": "",
-          "observations": "Allow about 1.5 hours of driving each way and arrive before opening. Check the official calendar shortly before the visit. The estimate uses the maximum published 2026 admission price for five visitors; parking is approximately €15 extra.",
+          "pictureUrl": "https://thirdeyetraveller.com/wp-content/uploads/Raveleijn-De-Efteling-1400x1050.jpg",
+          "observations": "Allow about 1.5 hours of driving each way and arrive before opening. Check the official calendar shortly before the visit. The estimate uses the maximum published 2026 admission price for five visitors; parking is approximately €15 extra.\nDon't forget the Raveleijn show!!!",
           "location": {
             "latitude": 51.6507,
             "longitude": 5.0498,
@@ -138,7 +172,13 @@
             "type": "expected",
             "isEstimate": true
           },
-          "tags": ["theme-park", "rides", "family", "full-day", "book-ahead"]
+          "tags": [
+            "theme-park",
+            "rides",
+            "family",
+            "full-day",
+            "book-ahead"
+          ]
         },
         {
           "id": "nl-2026-eemhof-morning",
@@ -154,7 +194,12 @@
             "address": "Center Parcs De Eemhof, Slingerweg 1, 3896 LD Zeewolde"
           },
           "durationMinutes": 180,
-          "tags": ["resort", "family", "flexible", "recovery"]
+          "tags": [
+            "resort",
+            "family",
+            "flexible",
+            "recovery"
+          ]
         },
         {
           "id": "nl-2026-batavialand",
@@ -176,7 +221,12 @@
             "type": "expected",
             "isEstimate": true
           },
-          "tags": ["museum", "ship", "indoor-option", "family"]
+          "tags": [
+            "museum",
+            "ship",
+            "indoor-option",
+            "family"
+          ]
         },
         {
           "id": "nl-2026-departure",
@@ -184,7 +234,7 @@
           "suggestedTime": "08:00",
           "title": "Pack, check out and depart",
           "description": "Pack the car, have breakfast and complete accommodation checkout before departure.",
-          "pictureUrl": "",
+          "pictureUrl": "https://photos.centerparcs.com/admin/fp2/photos/43/640x480/AAA_130113_43.jpg",
           "observations": "Accommodation checkout is before 10:00. Center Parcs indicates that park facilities may still be used after checkout, so keep swim items accessible if planning a final activity.",
           "location": {
             "latitude": 52.2603,
@@ -192,7 +242,46 @@
             "address": "Center Parcs De Eemhof, Slingerweg 1, 3896 LD Zeewolde"
           },
           "durationMinutes": 120,
-          "tags": ["departure", "lodging", "family"]
+          "tags": [
+            "departure",
+            "lodging",
+            "family"
+          ]
+        },
+        {
+          "id": "73591e5a-20bb-4fd3-a2e6-826ef6175442",
+          "date": "2026-08-29",
+          "suggestedTime": "16:00",
+          "title": "Raveleijn Knights Show",
+          "description": "Best knights show for children and adults.",
+          "pictureUrl": "https://www.packmoreintolife.com/wp-content/uploads/2018/11/IMG_2503.jpg",
+          "observations": "Time may change",
+          "location": {
+            "latitude": 51.65309,
+            "longitude": 5.04593,
+            "address": "Efteling"
+          },
+          "durationMinutes": 30,
+          "tags": [
+            "entertainment",
+            "show"
+          ]
+        },
+        {
+          "id": "1ef27307-b780-4699-a233-2b1d2b9b6ffb",
+          "date": "2026-08-25",
+          "suggestedTime": "18:00",
+          "title": "Enjoy Center Parc De Eemhog",
+          "description": "",
+          "pictureUrl": "https://parkinfo.be/wp-content/uploads/2023/04/centerparcs-heijderbos-jungle-dome-1024x683.jpg",
+          "observations": "",
+          "location": {
+            "latitude": 52.256,
+            "longitude": 5.414,
+            "address": "Slingerweg 1, 1721 LV Zeewolde, Flevoland, Netherlands"
+          },
+          "durationMinutes": 180,
+          "tags": []
         }
       ],
       "travelers": {
