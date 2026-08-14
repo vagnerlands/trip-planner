@@ -183,7 +183,7 @@
         {
           "id": "nl-2026-eemhof-morning",
           "date": "2026-08-30",
-          "suggestedTime": "09:30",
+          "suggestedTime": "17:30",
           "title": "Relaxed morning at De Eemhof",
           "description": "Use the pool, playgrounds or bikes and keep the morning flexible after the long Efteling day.",
           "pictureUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/75/8f/c4/center-parcs-de-eemhof.jpg?w=900&h=-1&s=1",
@@ -297,6 +297,22 @@
             "address": "Hans & Gretel pancake house, Sternweg 2A, 3898 LJ Zeewolde, Netherlands"
           },
           "durationMinutes": 90,
+          "tags": []
+        },
+        {
+          "id": "408d774a-faf0-45a7-a6ec-0abbec39d217",
+          "date": "2026-08-30",
+          "suggestedTime": "10:00",
+          "title": "Safari DierenPark Amersfoort",
+          "description": "Excellent for this exact age spread: climbing routes around animal habitats, pedal boats, dinosaur forest, indoor “night jungle,” play areas and animals.",
+          "pictureUrl": "https://media.licdn.com/dms/image/v2/C4D1BAQHU33lyawSQAw/company-background_10000/company-background_10000/0/1646227090881/dierenpark_amersfoort_cover?e=2147483647&v=beta&t=QGO-CfxYkCe3L2th2Pi2kqilB0DrgW-WFUcqBK-OYO0",
+          "observations": "",
+          "location": {
+            "latitude": 52.15587859907536,
+            "longitude": 5.3480746114762985,
+            "address": ""
+          },
+          "durationMinutes": 180,
           "tags": []
         }
       ],
