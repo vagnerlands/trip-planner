@@ -64,12 +64,12 @@
           "suggestedTime": "10:30",
           "title": "Giethoorn canal boat adventure",
           "description": "Take a family-friendly canal boat tour, walk through the village and stop for a picnic beside the water.",
-          "pictureUrl": "",
+          "pictureUrl": "https://www.fontica.com/wp-content/uploads/2020/04/Giethoorn-images-scaled.jpg",
           "observations": "Reserve a suitable boat and life jackets in advance. Allow roughly one hour of driving each way and take rain layers. Confirm the precise rental meeting point before departure.",
           "location": {
             "latitude": 52.7402,
             "longitude": 6.0791,
-            "address": "Giethoorn village centre, 8355 Giethoorn"
+            "address": "Nering 10-2, 8355 DK Giethoorn, Netherlands"
           },
           "durationMinutes": 300,
           "tags": [
@@ -281,6 +281,22 @@
             "address": "Slingerweg 1, 1721 LV Zeewolde, Flevoland, Netherlands"
           },
           "durationMinutes": 180,
+          "tags": []
+        },
+        {
+          "id": "67f9c1fa-503b-4c1d-bddf-51986d374225",
+          "date": "2026-08-27",
+          "suggestedTime": "19:00",
+          "title": "Themed Restaurant Hans & Grietje, Zeewolde",
+          "description": "Our menu features a wide range of pancakes, from delicious traditional varieties to creative culinary masterpieces",
+          "pictureUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/8e/88/00/genieten-zowel-binnen.jpg?w=1400&h=-1&s=1",
+          "observations": "",
+          "location": {
+            "latitude": 52.40217156520569,
+            "longitude": 5.614429037611532,
+            "address": "Hans & Gretel pancake house, Sternweg 2A, 3898 LJ Zeewolde, Netherlands"
+          },
+          "durationMinutes": 90,
           "tags": []
         }
       ],
