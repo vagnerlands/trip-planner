@@ -10,6 +10,27 @@
       "currency": "EUR",
       "activities": [
         {
+          "id": "nl-2026-lidl-zeewolde-groceries",
+          "date": "2026-08-24",
+          "suggestedTime": "13:00",
+          "title": "Groceries at Lidl Zeewolde",
+          "description": "Pick up groceries and holiday essentials before checking in at Center Parcs De Eemhof.",
+          "pictureUrl": "https://www.lidl.nl/static/assets/logo-lidl-nl.svg",
+          "observations": "Budget-supermarket stop before check-in. Lidl Zeewolde is at Gouwzee 27; allow extra time for the drive back to De Eemhof and any summer queues.",
+          "location": {
+            "latitude": 52.3353,
+            "longitude": 5.5368,
+            "address": "Lidl Zeewolde, Gouwzee 27, 3891 GH Zeewolde, Netherlands"
+          },
+          "durationMinutes": 45,
+          "tags": [
+            "groceries",
+            "supermarket",
+            "errands",
+            "arrival-day"
+          ]
+        },
+        {
           "id": "nl-2026-arrival-eemhof",
           "date": "2026-08-24",
           "suggestedTime": "16:00",
