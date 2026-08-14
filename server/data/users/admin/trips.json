@@ -102,6 +102,28 @@
           ]
         },
         {
+          "id": "nl-2026-almere-centrum-shopping",
+          "date": "2026-08-26",
+          "suggestedTime": "15:00",
+          "title": "Shopping and dinner in Almere Centrum",
+          "description": "Explore Almere Centrum for clothes, beauty and make-up shopping, then choose from the many cafés and restaurants for a meal.",
+          "pictureUrl": "https://c8.alamy.com/comp/E18XDP/shopping-square-centre-in-almere-the-netherlands-E18XDP.jpg",
+          "observations": "Suggested stop: this is about 26 minutes by car from De Eemhof. Good choices include Douglas, KIKO Milano, Rituals, Zara, Primark, H&M and Pull&Bear. Note that the Netherlands does not currently have physical Sephora stores.",
+          "location": {
+            "latitude": 52.3702,
+            "longitude": 5.2188,
+            "address": "Almere Centrum, 1315 Almere, Netherlands"
+          },
+          "durationMinutes": 180,
+          "tags": [
+            "shopping",
+            "beauty",
+            "clothes",
+            "food",
+            "suggestion"
+          ]
+        },
+        {
           "id": "nl-2026-eemhof-park-day",
           "date": "2026-08-27",
           "suggestedTime": "10:00",
