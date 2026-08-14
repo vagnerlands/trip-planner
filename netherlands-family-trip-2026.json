@@ -1,0 +1,209 @@
+{
+  "schemaVersion": 1,
+  "trips": [
+    {
+      "id": "netherlands-family-2026-08-24",
+      "title": "Netherlands Family Trip: 24–31 August 2026",
+      "startDate": "2026-08-24",
+      "endDate": "2026-08-31",
+      "timezone": "Europe/Amsterdam",
+      "currency": "EUR",
+      "travelers": {
+        "adults": 2,
+        "children": [{ "age": 12 }, { "age": 9 }, { "age": 6 }],
+        "total": 5
+      },
+      "lodging": {
+        "name": "Center Parcs De Eemhof",
+        "address": "Slingerweg 1, 3896 LD Zeewolde, Netherlands",
+        "latitude": 52.2603,
+        "longitude": 5.4005,
+        "checkInTime": "16:00",
+        "checkOutTime": "10:00"
+      },
+      "planningNotes": [
+        "Late August is usually mild, but pack light layers and rain jackets and keep indoor alternatives available.",
+        "Avoid weekday rush hours where possible: approximately 07:00–09:00 and 16:00–18:00.",
+        "Pack snacks and games and plan breaks on longer drives for the children.",
+        "Book Dolfinarium, boat rental and Efteling tickets in advance after confirming final prices and opening hours.",
+        "Days may be swapped for weather, except the Alkmaar cheese market fixed on Friday 28 August from 10:00 to 13:00."
+      ],
+      "activities": [
+        {
+          "id": "nl-2026-arrival-eemhof",
+          "date": "2026-08-24",
+          "suggestedTime": "16:00",
+          "title": "Arrive and check in at De Eemhof",
+          "description": "Check in, unpack and explore the holiday park, playgrounds and pool area after the drive.",
+          "pictureUrl": "",
+          "observations": "The park welcomes arrivals throughout the day, but accommodation check-in is from 16:00. Keep the first evening relaxed for the children.",
+          "location": {
+            "latitude": 52.2603,
+            "longitude": 5.4005,
+            "address": "Center Parcs De Eemhof, Slingerweg 1, 3896 LD Zeewolde"
+          },
+          "durationMinutes": 240,
+          "tags": ["arrival", "lodging", "family", "indoor-option"]
+        },
+        {
+          "id": "nl-2026-dolfinarium",
+          "date": "2026-08-25",
+          "suggestedTime": "10:00",
+          "title": "Dolfinarium Harderwijk",
+          "description": "Spend the day exploring marine-animal presentations, exhibits, playgrounds and the Waterpret slides.",
+          "pictureUrl": "",
+          "observations": "Official opening time for 25 August 2026 is 10:00–18:00. Bring swimwear or spare clothes for Waterpret. Buy online in advance and confirm the family price.",
+          "location": {
+            "latitude": 52.3521,
+            "longitude": 5.6168,
+            "address": "Zuiderzeeboulevard 22, 3841 WB Harderwijk"
+          },
+          "durationMinutes": 420,
+          "tags": ["animals", "family", "theme-park", "indoor-option", "book-ahead"]
+        },
+        {
+          "id": "nl-2026-giethoorn-boat",
+          "date": "2026-08-26",
+          "suggestedTime": "10:30",
+          "title": "Giethoorn canal boat adventure",
+          "description": "Take a family-friendly canal boat tour, walk through the village and stop for a picnic beside the water.",
+          "pictureUrl": "",
+          "observations": "Reserve a suitable boat and life jackets in advance. Allow roughly one hour of driving each way and take rain layers. Confirm the precise rental meeting point before departure.",
+          "location": {
+            "latitude": 52.7402,
+            "longitude": 6.0791,
+            "address": "Giethoorn village centre, 8355 Giethoorn"
+          },
+          "durationMinutes": 300,
+          "tags": ["boat", "outdoors", "village", "picnic", "book-ahead"]
+        },
+        {
+          "id": "nl-2026-eemhof-park-day",
+          "date": "2026-08-27",
+          "suggestedTime": "10:00",
+          "title": "De Eemhof park day",
+          "description": "Enjoy a slower day with biking, Aqua Mundo water slides, playgrounds and family downtime.",
+          "pictureUrl": "",
+          "observations": "Keep this as a recovery day. Check activity reservation requirements in the Center Parcs app and divide the day into shorter blocks for different ages.",
+          "location": {
+            "latitude": 52.2603,
+            "longitude": 5.4005,
+            "address": "Center Parcs De Eemhof, Slingerweg 1, 3896 LD Zeewolde"
+          },
+          "durationMinutes": 420,
+          "tags": ["resort", "swimming", "cycling", "family", "flexible"]
+        },
+        {
+          "id": "nl-2026-alkmaar-cheese-market",
+          "date": "2026-08-28",
+          "suggestedTime": "10:00",
+          "title": "Alkmaar Cheese Market",
+          "description": "Watch the traditional cheese carriers, weighing demonstrations and market activity at Waagplein.",
+          "pictureUrl": "",
+          "observations": "Fixed event: Friday 28 August 2026, 10:00–13:00. Arrive before 10:00 to find parking and a viewing place. Do this before Zaanse Schans.",
+          "location": {
+            "latitude": 52.631,
+            "longitude": 4.7503,
+            "address": "Waagplein, 1811 JP Alkmaar"
+          },
+          "durationMinutes": 180,
+          "tags": ["special-event", "cheese", "culture", "family", "fixed-time"]
+        },
+        {
+          "id": "nl-2026-zaanse-schans",
+          "date": "2026-08-28",
+          "suggestedTime": "14:15",
+          "title": "Zaanse Schans windmills and crafts",
+          "description": "Walk past the windmills and green wooden houses, visit family-friendly craft demonstrations and sample local cheese.",
+          "pictureUrl": "",
+          "observations": "Most locations generally operate from 09:00–17:00, but individual venues vary. Navigation address for the car park is Schansend 7. Passenger-car parking is currently listed at €15 for the day.",
+          "location": {
+            "latitude": 52.473,
+            "longitude": 4.8215,
+            "address": "Schansend 7, 1509 AW Zaandam"
+          },
+          "durationMinutes": 165,
+          "price": {
+            "amount": 15,
+            "currency": "EUR",
+            "type": "expected",
+            "isEstimate": true,
+            "scope": "vehicle parking only"
+          },
+          "tags": ["windmills", "culture", "cheese", "family", "outdoors"]
+        },
+        {
+          "id": "nl-2026-efteling",
+          "date": "2026-08-29",
+          "suggestedTime": "10:00",
+          "title": "Full day at Efteling",
+          "description": "Explore fairy-tale attractions, family rides and selected coasters, balancing options for all three children.",
+          "pictureUrl": "",
+          "observations": "Allow about 1.5 hours of driving each way and arrive before opening. Check the official calendar shortly before the visit. The estimate uses the maximum published 2026 admission price for five visitors; parking is approximately €15 extra.",
+          "location": {
+            "latitude": 51.6507,
+            "longitude": 5.0498,
+            "address": "Europalaan 1, 5171 KW Kaatsheuvel"
+          },
+          "durationMinutes": 540,
+          "price": {
+            "amount": 280,
+            "currency": "EUR",
+            "type": "expected",
+            "isEstimate": true,
+            "scope": "family admission for five; parking excluded"
+          },
+          "tags": ["theme-park", "rides", "family", "full-day", "book-ahead"]
+        },
+        {
+          "id": "nl-2026-eemhof-morning",
+          "date": "2026-08-30",
+          "suggestedTime": "09:30",
+          "title": "Relaxed morning at De Eemhof",
+          "description": "Use the pool, playgrounds or bikes and keep the morning flexible after the long Efteling day.",
+          "pictureUrl": "",
+          "observations": "Choose a low-effort activity based on weather and everyone's energy. Leave time for lunch before the optional Lelystad outing.",
+          "location": {
+            "latitude": 52.2603,
+            "longitude": 5.4005,
+            "address": "Center Parcs De Eemhof, Slingerweg 1, 3896 LD Zeewolde"
+          },
+          "durationMinutes": 180,
+          "tags": ["resort", "family", "flexible", "recovery"]
+        },
+        {
+          "id": "nl-2026-batavialand",
+          "date": "2026-08-30",
+          "suggestedTime": "14:00",
+          "title": "Optional afternoon at Batavialand",
+          "description": "Visit the museum and replica Batavia ship to learn about Dutch maritime and water-management history.",
+          "pictureUrl": "",
+          "observations": "Weather-friendly optional outing in Lelystad. Confirm opening hours and family tickets before leaving; skip it if the children need more park downtime.",
+          "location": {
+            "latitude": 52.5225,
+            "longitude": 5.4391,
+            "address": "Oostvaardersdijk 01-13, 8242 PA Lelystad"
+          },
+          "durationMinutes": 180,
+          "tags": ["museum", "ship", "indoor-option", "optional", "family"]
+        },
+        {
+          "id": "nl-2026-departure",
+          "date": "2026-08-31",
+          "suggestedTime": "08:00",
+          "title": "Pack, check out and depart",
+          "description": "Pack the car, have breakfast and complete accommodation checkout before departure.",
+          "pictureUrl": "",
+          "observations": "Accommodation checkout is before 10:00. Center Parcs indicates that park facilities may still be used after checkout, so keep swim items accessible if planning a final activity.",
+          "location": {
+            "latitude": 52.2603,
+            "longitude": 5.4005,
+            "address": "Center Parcs De Eemhof, Slingerweg 1, 3896 LD Zeewolde"
+          },
+          "durationMinutes": 120,
+          "tags": ["departure", "lodging", "family"]
+        }
+      ]
+    }
+  ]
+}
