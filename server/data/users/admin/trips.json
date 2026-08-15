@@ -90,9 +90,15 @@
           "location": {
             "latitude": 52.7402,
             "longitude": 6.0791,
-            "address": "Nering 10-2, 8355 DK Giethoorn, Netherlands"
+            "address": "Dominee T.O. Hylkemaweg 13, 8355 CD Giethoorn, Netherlands"
           },
           "durationMinutes": 300,
+          "price": {
+            "amount": 40,
+            "currency": "EUR",
+            "type": "expected",
+            "isEstimate": true
+          },
           "tags": [
             "boat",
             "outdoors",
@@ -104,7 +110,7 @@
         {
           "id": "nl-2026-almere-centrum-shopping",
           "date": "2026-08-26",
-          "suggestedTime": "15:00",
+          "suggestedTime": "17:00",
           "title": "Shopping and dinner in Almere Centrum",
           "description": "Explore Almere Centrum for clothes, beauty and make-up shopping, then choose from the many cafés and restaurants for a meal.",
           "pictureUrl": "https://c8.alamy.com/comp/E18XDP/shopping-square-centre-in-almere-the-netherlands-E18XDP.jpg",
@@ -152,11 +158,11 @@
           "title": "Alkmaar Cheese Market",
           "description": "Watch the traditional cheese carriers, weighing demonstrations and market activity at Waagplein.",
           "pictureUrl": "https://media.istockphoto.com/id/512972736/nl/foto/he-famous-alkmaar-cheese-market-in-netherlands.jpg?s=612x612&w=0&k=20&c=vTnMC21RuaTG97NQOd3DLg4c0GcV90lPayXD0Il_V0U=",
-          "observations": "Fixed event: Friday 28 August 2026, 10:00–13:00. Arrive before 10:00 to find parking and a viewing place. Do this before Zaanse Schans.",
+          "observations": "Fixed event: Friday 28 August 2026, 10:00–13:00. Arrive before 10:00 to find parking and a viewing place. Do this before Zaanse Schans.\nPark at: Wilhelminalaan 12, 1815 JD Alkmaar, Netherlands\nWalk to: Houttil 18, 1811 JM Alkmaar, Netherlands",
           "location": {
             "latitude": 52.631,
             "longitude": 4.7503,
-            "address": "Waagplein, 1811 JP Alkmaar"
+            "address": "Houttil 18, 1811 JM Alkmaar, Netherlands"
           },
           "durationMinutes": 180,
           "tags": [
